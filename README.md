@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+💻学生 (B.Tech 最終学年) | ソフトウェア開発とデータ分析が好きです | 🌏 日本語を勉強しています (JLPT N5 合格、N4 準備中) |
+
+🚀 Web 開発、機械学習、IoT (Arduino)、Power BI のプロジェクトをしました | 🎯 目標: 日本でソフトウェアエンジニアとして
+
+B&Wファイナンスサポーター兼公認会計士。逆瀬川さん、林太郎さんとは大学時代の同級生。経歴等はLinkedinをご参照ください。
+
+
+
+
 <!--
 **LossMaxe/LossMaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
